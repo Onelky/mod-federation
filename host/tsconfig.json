@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "paths": {
+      "remoteApp/Button": ["../remote/src/Button.ts"]
+    }
+  },
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
